@@ -1,9 +1,9 @@
 # Ever Jesús Montero Minaya
 ## Desarrollador Full Stack, Diseñador UX UI, Ingeniero de sistemas
 
-Soy Egresado de la carrera de **Ingenieria de sistemas** en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y en constante aprendizaje, mucho gusto.
+Soy Egresado de la carrera de **Ingenieria de sistemas** en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y siempre en constante aprendizaje, mucho gusto.
 
-# Bootcamp Glorioso
+# Bootcamp 
 ## 🦄 Semana 1
 **⚙ Configuracion del prework**
 1. Instalando Ubuntu en Windows 10/11
