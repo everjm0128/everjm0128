@@ -1,16 +1,34 @@
-### Hi there 👋
+# Ever Jesús Montero Minaya
+## Desarrollador Full Stack, Diseñador UX UI, Ingeniero de sistemas
 
-<!--
-**everjm0128/everjm0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Egresado de la carrera de **Ingenieria de sistemas** en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y en constante aprendizaje, mucho gusto.
 
-Here are some ideas to get you started:
+# Bootcamp Glorioso
+## 🦄 Semana 1
+**⚙ Configuracion del prework**
+1. Instalando Ubuntu en Windows 10/11
+1. Instalación de Git
+1. Configuración de las llaves SSH
+1. Creando una cuenta de GitHub
+1. Instalación de Node.js y Yarn
+1. Primeros pasos con VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Estos son 5 comandos
+| comandos | Descripcion |
+| -- | -- |
+| ls | listar contenido |
+| cd | cambiar de directorio |
+| yarn | instalar de dependencias |
+| gst | alias git status |
+| clear | limpiar terminal |
+| alias | listar alias |
+
+# Estos son mis alias más usados
+
+```bash
+alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
+
+```bash
+alias cafe='cat /dev/urandom | hexdump | grep "ca fe"'
+```
