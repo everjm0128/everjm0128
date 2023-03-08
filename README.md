@@ -1,7 +1,7 @@
 # Ever Jesús Montero Minaya
 ## Desarrollador Full Stack, Diseñador UX UI, Ingeniero de sistemas
 
-Soy Egresado de la carrera de **Ingenieria de sistemas** en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y siempre en constante aprendizaje, mucho gusto.
+Programador y **desarrollador web**, ubicado en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y siempre en constante aprendizaje, mucho gusto.
 
 # Bootcamp 
 ## 🦄 Semana 1
