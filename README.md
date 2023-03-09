@@ -1,7 +1,11 @@
 # Ever Jesús Montero Minaya
-## Desarrollador Full Stack, Diseñador UX UI, Ingeniero de sistemas
+## Desarrollador Junior | estudiante de Ingenieria en sistemas
 
-Programador y **desarrollador web**, ubicado en la ciudad de Nuevo Chimbote en Perú, soy un amante de la **tecnología** y siempre en constante aprendizaje, mucho gusto.
+[Ir a github](https://github.com/everjm0128)
+
+Un saludo ✌
+
+Soy un estudiante de la carrera de **Ingenieria de sistemas** y  del bootcamp Undefined Academy, soy un amante de la **tecnología** y me gusta estar en constante aprendizaje. 
 
 # Bootcamp 
 ## 🦄 Semana 1
