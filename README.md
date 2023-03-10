@@ -9,7 +9,7 @@ Soy un estudiante de la carrera de **Ingenieria de sistemas** , actualmente vivo
 
 ![banner](https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740&t=st=1678398678~exp=1678399278~hmac=efa4fc9ff37199f1eec6dd9a4fdd10f40072a13ea8f970d3e00f5e18171b17f1)
 
-## Lenguajes de programación favoritos
+## Lenguajes de programación favoritos 👨‍🎓
 
 | Lenguajes | 
 | --- | 
