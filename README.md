@@ -3,9 +3,9 @@
 
 [Visita mi perfil de github](https://github.com/everjm0128)
 
-Un saludo a todos ✌
+Un saludo a todos ✌👨‍💻
 
-Soy un estudiante de la carrera de **Ingenieria de sistemas** , actualmente vivo en Perú  participando en el bootcamp de **Undefined Academy** con Guillermo Rodas, soy un amante de la **tecnología** y me gusta estar en constante aprendizaje, siempre motivado en aprender nuevas cosas, soy fanatico del rock contemporaneo.
+Soy un estudiante de la carrera de **Ingenieria de sistemas** , actualmente vivo en Perú , estoy participando en el bootcamp de **Undefined Academy** por Guillermo Rodas, soy un amante de la **tecnología** y me gusta estar en constante aprendizaje, siempre motivado en aprender nuevas cosas, soy fanatico del rock contemporaneo.
 
 ![banner](https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740&t=st=1678398678~exp=1678399278~hmac=efa4fc9ff37199f1eec6dd9a4fdd10f40072a13ea8f970d3e00f5e18171b17f1)
 
